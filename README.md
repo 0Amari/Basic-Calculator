@@ -1,3 +1,10 @@
 # Basic-Calculator
-A Basic Calculator i with html,css,java
+#
+#
 
+
+# Dark mode 
+![My animated logo](pri1.png)
+
+# Light mode 
+![My animated logo](pri2.png)
